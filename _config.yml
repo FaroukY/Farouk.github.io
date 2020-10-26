@@ -25,14 +25,14 @@ about_profile_image: logo.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Farouk and I'm a Quant Trader at Citadel LLC. I enjoy thinking about recreational math and combinatorial optimization problems in my free time.
 
-# Projects Section
-# projects_title: Projects
+#Projects Section
+projects_title: Publications and Projects
 
-# Experience Section
-# experience_title: Experience
+#Experience Section
+experience_title: Experience
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
