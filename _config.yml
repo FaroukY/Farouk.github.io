@@ -23,7 +23,7 @@ youtube_username: forallepsilon
 # about_title: About Me
 about_profile_image: logo.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Farouk and I'm a Quant Trader at Citadel LLC. I enjoy thinking about recreational math and combinatorial optimization problems in my free time.
+  Hi, my name's Farouk and I'm a Quant Trader at Citadel LLC. I enjoy thinking about recreational math and combinatorial optimization problems. In my free time, I enjoy creating [Youtube](https://www.youtube.com/watch?v=XqTBrQYYUcc&ab_channel=ForAllEpsilon) videos about problem solving. I am also actively involved in several research projects.  
 
 #Projects Section
 projects_title: Publications and Projects
