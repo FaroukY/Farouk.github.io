@@ -1,6 +1,6 @@
 - layout: top-middle
   name: "KFC: A Scalable Approximation Algorithm for k-center Fair Clustering"
-  link: github.com/sproogen
+  #link: github.com/sproogen
   quote: >
     Accepted to Neural Information Processing Systems (NeurIPS) 2020
   #description: | # this will include new lines to allow paragraphs
@@ -29,3 +29,8 @@
     Accepted to Data Compression Conference (DCC) 2019. 
   #description: | # this will include new lines to allow paragraphs
   #  Huffman Codes are "optimal" Fixed-to-Variable (FV) codes if every source symbol can only be encoded by one codeword. Relaxing this constraint permits constructing better FV codes. More specifically, recent work has shown that AIFV codes can beat Huffman coding. AIFV codes construct a set of different coding trees between which the code alternates and are only "almost instantaneous" (AI). This means that decoding a word might require a delay of a finite number of bits. Current algorithms for constructing optimal AIFV codes are iterative processes that construct progressively "better sets" of code trees. The processes have been proven to finitely converge to the optimal code but with no known bounds on the convergence time. This paper derives a geometric interpretation of the space of AIFV codes. This permits the development of new polynomially time-bounded iterative procedures for constructing optimal AIFV codes. For the simplest case we show that a binary search procedure can replace the current iterative process. For the more complicated cases we describe how to frame the problem as a linear programming problem with an exponential number of constraints but a polynomial time separability oracle. This permits using the Grotschel, Lovasz and Schrijver ellipsoid method to solve the problem in a polynomial number of steps.
+
+- layout: top-middle
+  name: "Greedy Approximation Framework for Top-k Diverse Topological Sorts."
+  quote: >
+    Preprint.
