@@ -1,7 +1,6 @@
 - layout: top-middle
-  name: KFC: A Scalable Approximation Algorithm for k-center Fair Clustering
+  name: KFC : A Scalable Approximation Algorithm for k-center Fair Clustering
   link: github.com/sproogen
-  github: sproogen/resume-theme
   quote: >
     Neural Information Processing Systems (NeurIPS) 2020
   description: | # this will include new lines to allow paragraphs
