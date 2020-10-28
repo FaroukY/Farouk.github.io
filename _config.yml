@@ -8,6 +8,7 @@ darkmode: true
 # Personal info
 name: Elfarouk Harb
 title: Quant Trader at Citadel Securities. 
+description: Elfarouk Harb is a Quant Trader at Citadel Securities. Farouk Harb Citadel Securities. 
 email: eyfmharb@gmail.com
 website: https://github.com/FaroukY
 
@@ -22,7 +23,7 @@ linkedin_username: elfarouky
 youtube_username: forallepsilon
 # googleplus_username: +jekyll
 
-gtag: "G-QFNG48LGYT"
+google_analytics: "G-QFNG48LGYT"
 # About Section
 # about_title: About Me
 about_profile_image: logo.png
