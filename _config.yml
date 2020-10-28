@@ -3,6 +3,10 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 darkmode: true
+
+
+gtag: "G-QFNG48LGYT"
+
 # Personal info
 name: Elfarouk Harb
 title: Quant Trader at Citadel Securities. 
