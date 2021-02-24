@@ -10,7 +10,7 @@
   name: "Speeding up the AIFV-2 dynamic programs by two orders of magnitude using Range Minimum Queries"
   link: https://arxiv.org/abs/2002.09885
   quote: >
-    <mark>Submitted to Theoretical Computer Science Journal. </mark>
+    <mark>Accepted to Theoretical Computer Science Journal. </mark>
   #description: | # this will include new lines to allow paragraphs
   #  AIFV-2 codes are a new method for constructing lossless codes for memoryless sources that provide better worst-case redundancy than Huffman codes. They do this by using two code trees instead of one and also allowing some bounded delay in the decoding process. Known algorithms for constructing AIFV-code are iterative; at each step they replace the current code tree pair with a "better" one. The current state of the art for performing this replacement is a pair of Dynamic Programming (DP) algorithms that use O(n^5) time to fill in two tables, each of size O(n^3) (where n is the number of different characters in the source). This paper describes how to reduce the time for filling in the DP tables by two orders of magnitude, down to O(n^3). It does this by introducing a grouping technique that permits separating the Θ(n^3)-space tables into Θ(n) groups, each of size O(n^2), and then using Two-Dimensional Range-Minimum Queries (RMQs) to fill in that group's table entries in O(n^2) time. This RMQ speedup technique seems to be new and might be of independent interest. 
 
