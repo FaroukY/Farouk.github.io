@@ -1,4 +1,12 @@
 - layout: left
+  company: Google
+  job_title: PhD Software Engineer
+  dates: May 2022 - August 2022
+  #description: | # this will include new lines to allow paragraphs
+  #  Rewrote the simulation system and some strategy code using Python 3 and C++11 that resulted in a 15x speedup on simulation runtimes. 
+
+
+- layout: left
   company: Citadel Securities
   link: https://www.citadelsecurities.com/
   job_title: Quant Trader
